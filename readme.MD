@@ -1,4 +1,4 @@
-Webpack crash course | easy way
+# Webpack crash course | easy way
 
-git clone --
-npm install
+* git clone 
+* npm install

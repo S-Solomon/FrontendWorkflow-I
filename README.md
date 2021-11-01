@@ -1,4 +1,4 @@
 # frontendworkflow
 
-* clone ththis repo
+* clone this repo
 * npm install
